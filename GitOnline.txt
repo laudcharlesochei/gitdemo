@@ -1,1 +1,15 @@
 This is demo n how to push to Github online and pull form Github online
+
+
+
+git remote add origin https://github.com/laudcharlesochei/gitdemo.git
+
+git push -u -f origin master
+
+
+Pushing to GitHub
+=================
+git remote add origin https://github.com/laudcharlesochei/gitdemo.git
+
+
+
